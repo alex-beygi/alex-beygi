@@ -25,7 +25,7 @@ I care deeply about:
 ## ⚙️ Tech Stack
 
 ### 🧠 Backend
-- Laravel (Laravel, Octane, OpenSwoole)
+- PHP & Laravel
 - REST APIs & Microservices
 - PostgreSQL / MySQL
 - RabbitMQ (event-driven systems)
