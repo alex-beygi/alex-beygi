@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Alex Beygi
 
 💻 Senior Full Stack Developer | Laravel • React • Next.js • Vue 
+
 📍 Based in the UK 🇬🇧  
+
 🚀 Building scalable platforms and real-world solutions  
 
 ---
