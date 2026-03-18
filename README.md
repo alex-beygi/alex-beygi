@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alex Beygi
 
-💻 Senior Full Stack Developer | Laravel • React • Next.js  
+💻 Senior Full Stack Developer | Laravel • React • Next.js • Vue 
 📍 Based in the UK 🇬🇧  
 🚀 Building scalable platforms and real-world solutions  
 
@@ -32,9 +32,9 @@ I care deeply about:
 
 ### 🎨 Frontend
 - React.js
-- Next.js (App Router, ISR, SSR)
+- Next.js
 - TypeScript
-- Zustand / Modern state management
+- Vue.js
 
 ### ☁️ DevOps & Tools
 - Docker (Laravel Sail)
