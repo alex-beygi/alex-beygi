@@ -36,7 +36,6 @@ I care deeply about:
 - React.js
 - Next.js
 - TypeScript
-- Vue.js
 
 ### ☁️ DevOps & Tools
 - Docker (Laravel Sail)
@@ -54,4 +53,3 @@ I care deeply about:
 
 - 💼 Open to Senior Backend / Full Stack roles
 - 🌐 Portfolio: AlexBeygi.uk
-- 💬 Ask me about Laravel, system design, or scaling apps
