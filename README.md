@@ -43,13 +43,3 @@ I care deeply about:
 - GitHub Actions (CI/CD)
 - Linux / Server optimization
 
-### 🤖 AI & Advanced
-- OpenAI API / Laravel AI SDK
-- AI-powered moderation systems
-- Smart recommendation engines (currently building for e-commerce)
-
-
-## 🤝 Let’s Connect
-
-- 💼 Open to Senior Backend / Full Stack roles
-- 🌐 Portfolio: AlexBeygi.uk
